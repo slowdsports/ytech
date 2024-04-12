@@ -505,6 +505,13 @@
     object-fit: cover;
 }
 
+/* Cover image Css */
+.contain-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
 /* Display Flex Css Start */
 .flx-wrap {
     display: flex;
